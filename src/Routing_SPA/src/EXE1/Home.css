@@ -1,0 +1,15 @@
+.navbar {
+ border: 2px solid black;
+ display: flex;
+ justify-content: space-around;
+}
+
+.nav-item {
+    border: 1px solid black;
+    padding: 2px;
+}
+
+.nav-item:hover {
+    cursor: pointer;
+    background-color: rgba(0, 121, 227, 0.552);
+}
